@@ -1,0 +1,1 @@
+Error preparing statement: Error preparing statement: Error preparing statement: Error preparing statement (UPDATE): Error preparing statement (UPDATE): Error preparing statement (UPDATE): Error preparing statement (UPDATE):  - SQL: UPDATE user SET password_hash = ?, reset_token_hash = NULL, reset_token_expires_at = NULL WHERE id = ?
